@@ -1,27 +1,49 @@
-# Olá! 👋 Me chamo Jeanlucas
+# 👋 Olá! | Hello!  
+Me chamo Jeanlucas | My name is Jeanlucas
 
-🎓 Estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)  
-💻 Apaixonado por Desenvolvimento Web, Mobile e Inteligência Artificial  
-🚀 Em busca de uma oportunidade de estágio para aplicar meus conhecimentos e crescer com projetos desafiadores  
-🌱 Aprendendo mais sobre React, Node.js e boas práticas de desenvolvimento
+🎓 **PT:** Estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)  
+🎓 **EN:** Computer Science student at the Federal University of Ouro Preto (UFOP)  
 
-## 🛠️ Tecnologias que uso e estudo:
+💻 **PT:** Apaixonado por Desenvolvimento Web, Mobile e Inteligência Artificial  
+💻 **EN:** Passionate about Web, Mobile, and Artificial Intelligence development  
+
+🚀 **PT:** Em busca de uma oportunidade de estágio para aplicar meus conhecimentos e crescer com projetos desafiadores  
+🚀 **EN:** Seeking an internship opportunity to apply my knowledge and grow with challenging projects  
+
+🌱 **PT:** Aprendendo mais sobre React, Node.js e boas práticas de desenvolvimento  
+🌱 **EN:** Currently learning more about React, Node.js, and development best practices  
+
+---
+
+## 🛠️ Tecnologias que uso e estudo | Technologies I use and study:
 
 - HTML, CSS, JavaScript  
 - React, React Native  
-- Node.js (básico)  
+- Node.js (básico / basic)  
 - Python  
 - Git & GitHub  
 - MySQL, PostgreSQL, MongoDB  
 
-## 📂 Projetos em destaque:
+---
 
-🔗 [Foninho - App para fonos](Em breve...) — Foninho é uma aplicação web e mobile voltada para o agendamento de consultas e o acompanhamento terapêutico fonoaudiológico. Desenvolvido com foco na acessibilidade e organização, o app permite que fonoaudiólogos gerenciem seus atendimentos e acompanhem o progresso dos pacientes de forma prática e centralizada.
-🔗 [Perfeição - Produção musical](Em breve...) — Projeto experimental que utiliza modelagem de dados para analisar elementos de uma composição musical — como melodia, harmonia e ritmo — e avaliar sua compatibilidade com a base instrumental. A partir disso, o sistema sugere estilos musicais e direções criativas que melhor se encaixam na proposta, ajudando artistas a otimizarem o processo de produção e explorarem novas possibilidades de composição.
+## 📂 Projetos em destaque | Featured Projects:
 
-## 📫 Entre em contato:
-[LinkedIn](www.linkedin.com/in/jeanlucas-santana) • [E-mail](jeanlucasfs2013@gmail.com)
+🔗 **Foninho – App para fonoaudiólogos** *(em breve)*  
+**PT:** Aplicação web e mobile para agendamento de consultas e acompanhamento terapêutico fonoaudiológico.  
+**EN:** Web and mobile app for scheduling speech therapy sessions and tracking therapeutic progress.
+
+🔗 **Perfeição – Assistente de produção musical** *(em breve)*  
+**PT:** Projeto experimental que analisa elementos musicais e sugere direções criativas para composições.  
+**EN:** Experimental project that analyzes musical elements and suggests creative directions for composition.
 
 ---
 
-*“Cada bug é uma oportunidade de aprender algo novo.”*
+## 📫 Entre em contato | Contact:
+
+[LinkedIn](https://www.linkedin.com/in/jeanlucas-santana)  
+[E-mail](mailto:jeanlucasfs2013@gmail.com)
+
+---
+
+*“Cada bug é uma oportunidade de aprender algo novo.”*  
+*"Every bug is an opportunity to learn something new."*
