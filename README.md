@@ -1,4 +1,4 @@
-\# 👋 Olá, eu sou o Jeanlucas Ferreira Santana
+# 👋 Olá, eu sou o Jeanlucas Ferreira Santana
 # 👋 Hi, I'm Jeanlucas Ferreira Santana
 
 🎯 Analista de Dados em formação, com experiência em Business Intelligence (BI), focado em transformar dados em insights para tomada de decisão.  
