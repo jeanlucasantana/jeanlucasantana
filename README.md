@@ -1,49 +1,64 @@
-# 👋 Olá! | Hello!  
-Me chamo Jeanlucas | My name is Jeanlucas
+\# 👋 Olá, eu sou o Jeanlucas Ferreira Santana
+# 👋 Hi, I'm Jeanlucas Ferreira Santana
 
-🎓 **PT:** Estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)  
-🎓 **EN:** Computer Science student at the Federal University of Ouro Preto (UFOP)  
-
-💻 **PT:** Apaixonado por Desenvolvimento Web, Mobile e Inteligência Artificial  
-💻 **EN:** Passionate about Web, Mobile, and Artificial Intelligence development  
-
-🚀 **PT:** Em busca de uma oportunidade de estágio para aplicar meus conhecimentos e crescer com projetos desafiadores  
-🚀 **EN:** Seeking an internship opportunity to apply my knowledge and grow with challenging projects  
-
-🌱 **PT:** Aprendendo mais sobre React, Node.js e boas práticas de desenvolvimento  
-🌱 **EN:** Currently learning more about React, Node.js, and development best practices  
+🎯 Analista de Dados em formação, com experiência em Business Intelligence (BI), focado em transformar dados em insights para tomada de decisão.  
+🎯 Aspiring Data Analyst with experience in Business Intelligence (BI), focused on turning data into insights for decision-making.
 
 ---
 
-## 🛠️ Tecnologias que uso e estudo | Technologies I use and study:
+## 🚀 Sobre mim | About Me
 
-- HTML, CSS, JavaScript  
-- React, React Native  
-- Node.js (básico / basic)  
+Atualmente atuo com BI, desenvolvendo dashboards e análises para suporte estratégico em ambiente corporativo.  
+Tenho base em Ciência da Computação, com conhecimento em lógica, programação e banco de dados.  
+
+I currently work with BI, developing dashboards and data analyses to support strategic decision-making.  
+I have a background in Computer Science, with knowledge in logic, programming, and databases.
+
+Estou direcionando minha carreira para a área de dados, com foco em:  
+I'm focusing my career on data, especially:
+
+- Análise de Dados | Data Analysis  
+- Business Intelligence  
+- Engenharia de Dados (futuro) | Data Engineering (future)
+
+---
+
+## 🧠 Tecnologias | Tech Stack
+
+**Dados & BI | Data**
+- Power BI  
+- SQL  
+- Excel  
+
+**Programação | Programming**
 - Python  
-- Git & GitHub  
-- MySQL, PostgreSQL, MongoDB  
+- JavaScript  
+- Node.js  
+
+**Outros | Others**
+- APIs  
+- Web Scraping  
+- Banco de Dados (Oracle, SQL Server)
 
 ---
 
-## 📂 Projetos em destaque | Featured Projects:
+## 📊 Projetos | Projects
 
-🔗 **Foninho – App para fonoaudiólogos** *(em breve)*  
-**PT:** Aplicação web e mobile para agendamento de consultas e acompanhamento terapêutico fonoaudiológico.  
-**EN:** Web and mobile app for scheduling speech therapy sessions and tracking therapeutic progress.
-
-🔗 **Perfeição – Assistente de produção musical** *(em breve)*  
-**PT:** Projeto experimental que analisa elementos musicais e sugere direções criativas para composições.  
-**EN:** Experimental project that analyzes musical elements and suggests creative directions for composition.
+### 📈 Dashboard de Vendas (em desenvolvimento)
+Projeto de análise de dados com foco em indicadores de negócio e tomada de decisão.  
+Data analysis project focused on business metrics and decision-making.
 
 ---
 
-## 📫 Entre em contato | Contact:
+### 🤖 Steam Sale Watcher
+Bot que monitora preços de jogos na Steam e envia alertas via WhatsApp.  
+Bot that monitors Steam game prices and sends alerts via WhatsApp.
 
-[LinkedIn](https://www.linkedin.com/in/jeanlucas-santana)  
-[E-mail](mailto:jeanlucasfs2013@gmail.com)
+🔗 https://github.com/jeanlucasantana
 
 ---
 
-*“Cada bug é uma oportunidade de aprender algo novo.”*  
-*"Every bug is an opportunity to learn something new."*
+## 📫 Contato | Contact
+
+- LinkedIn: www.linkedin.com/in/jeanlucas-santana  
+- Email: jeanlucasfs2013@gmail.com
