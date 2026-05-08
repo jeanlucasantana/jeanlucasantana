@@ -77,7 +77,7 @@ A análise aborda:
 * Storytelling visual
 
 🔗 Projeto completo:
-https://github.com/jeanlucasantana
+https://github.com/jeanlucasantana/nike-vs-adidas-powerbi-dashboard
 
 ---
 
