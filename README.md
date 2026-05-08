@@ -93,7 +93,7 @@ Bot desenvolvido para monitoramento de preços de jogos na Steam com envio autom
 * Web Scraping
 
 🔗 Projeto:
-https://github.com/jeanlucasantana
+https://github.com/jeanlucasantana/monitora-promocao-steam-sale-watcher
 
 ---
 
