@@ -1,4 +1,3 @@
-Jeanlucas Ferreira Santana
 Desenvolvedor .NET | C# · ASP.NET Core · SQL Server · Oracle Ciência da Computação — UFOP (7º período) · Itabirito/MG
 
 Trabalho na manutenção e evolução de dois ERPs corporativos construídos sobre a plataforma Serenity (C#, ASP.NET Core, TypeScript), em uma rede de supermercados e revenda com 17 unidades. Atuo também na sustentação do WinThor (TOTVS) em Oracle.
