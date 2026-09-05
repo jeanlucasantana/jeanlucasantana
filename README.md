@@ -1,103 +1,20 @@
-# 👋 Olá, eu sou o Jeanlucas Ferreira Santana
+Desenvolvedor .NET | C# · ASP.NET Core · SQL Server · Oracle Ciência da Computação — UFOP (7º período) · Itabirito/MG
 
-# 👋 Hi, I'm Jeanlucas Ferreira Santana
+Trabalho na manutenção e evolução de dois ERPs corporativos construídos sobre a plataforma Serenity (C#, ASP.NET Core, TypeScript), em uma rede de supermercados e revenda com 17 unidades. Atuo também na sustentação do WinThor (TOTVS) em Oracle.
 
-🎯 Analista de Dados em formação, com experiência em Business Intelligence (BI), focado em transformar dados em insights estratégicos para tomada de decisão.
-🎯 Aspiring Data Analyst with experience in Business Intelligence (BI), focused on transforming data into strategic insights for decision-making.
+Minha base é banco de dados: modelagem relacional, consultas complexas e stored procedures em SQL Server e Oracle. Entrei na empresa como estagiário de BI, construindo dashboards em Power BI, e fui efetivado no time de desenvolvimento.
 
----
+Hoje estudo: ASP.NET Core, Entity Framework Core, testes com xUnit e boas práticas de arquitetura em .NET.
 
-# 🚀 Sobre mim | About Me
+Stack
+Backend  C# .NET ASP.NET Core Serenity Platform Node.js Dados  SQL Server Oracle T-SQL PL/SQL Power BI DAX Outros  TypeScript JavaScript Python C Git GitHub Actions
 
-Atualmente atuo com BI, desenvolvendo dashboards, indicadores e análises para suporte estratégico em ambiente corporativo.
+Projetos
+Steam Sale Watcher — Bot em Node.js que monitora a wishlist da Steam via API e dispara alertas no WhatsApp. Execução agendada por GitHub Actions.
 
-Tenho base em Ciência da Computação, com conhecimento em lógica, programação, banco de dados e modelagem analítica.
+Nike vs Adidas — Power BI — Dashboard comparativo de vendas com KPIs de faturamento, margem e volume. Modelagem estrela e DAX.
 
-I currently work with BI, developing dashboards, KPIs and analytical solutions to support strategic business decisions.
+Projetos UFOP — Trabalhos acadêmicos em C e C++: estruturas de dados, organização de computadores e POO.
 
-I have a Computer Science background, with knowledge in programming, databases and analytical modeling.
-
----
-
-# 🎯 Foco de Carreira | Career Focus
-
-* Análise de Dados | Data Analysis
-* Business Intelligence
-* Power BI & DAX
-* SQL & Data Modeling
-* Engenharia de Dados (futuro) | Data Engineering (future)
-
----
-
-# 🧠 Tecnologias | Tech Stack
-
-## 📊 Dados & BI | Data
-
-* Power BI
-* DAX
-* SQL
-* Excel
-
-## 💻 Programação | Programming
-
-* Python
-* JavaScript
-* Node.js
-
-## ⚙️ Outros | Others
-
-* APIs
-* Web Scraping
-* Oracle Database
-* SQL Server
-
----
-
-# 📊 Projetos em Destaque | Featured Projects
-
-## 🏆 Adidas vs Nike — Comparative Sales Analysis
-
-Dashboard estratégica desenvolvida em Power BI para comparação de performance entre Adidas e Nike.
-
-A análise aborda:
-
-* faturamento
-* lucro
-* margem
-* receita por item
-* liderança por dimensão
-* storytelling analítico
-
-### 🔍 Principais diferenciais:
-
-* KPIs dinâmicos
-* Comparação estratégica entre marcas
-* Insights executivos
-* Scorecard de liderança
-* Storytelling visual
-
-🔗 Projeto completo:
-https://github.com/jeanlucasantana/nike-vs-adidas-powerbi-dashboard
-
----
-
-## 🤖 Steam Sale Watcher
-
-Bot desenvolvido para monitoramento de preços de jogos na Steam com envio automático de alertas via WhatsApp.
-
-### 🔧 Tecnologias:
-
-* Python
-* APIs
-* Automação
-* Web Scraping
-
-🔗 Projeto:
-https://github.com/jeanlucasantana/monitora-promocao-steam-sale-watcher
-
----
-
-# 📫 Contato | Contact
-
-* LinkedIn: [www.linkedin.com/in/jeanlucas-santana](http://www.linkedin.com/in/jeanlucas-santana)
-* Email: [jeanlucasfs2013@gmail.com](mailto:jeanlucasfs2013@gmail.com)
+Contato
+LinkedIn · jeanlucasfs2013@gmail.com
